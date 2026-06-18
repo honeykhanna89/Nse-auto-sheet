@@ -40,7 +40,7 @@ client = gspread.authorize(creds)
 
 
 
-# ⚠️ अपनी गूगल शीट की ID यहाँ डालें
+# ⚠️ 1T3aRpLUtncv9OplMYPpy8wfyRhOW2DVHjSdar0m_9vQ
 
 spreadsheet_id = "1T3aRpLUtncv9OplMYPpy8wfyRhOW2DVHjSdar0m_9vQ" 
 
